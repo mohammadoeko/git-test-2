@@ -6,6 +6,7 @@
     <title>Git Tes 2</title>
 </head>
 <body>
-    <p>Mencoba git test 2</p>
+    <h1>Mencoba Git tes 2</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quibusdam, sapiente iure pariatur sed itaque, delectus aliquam quis voluptatem porro quas explicabo libero hic provident vitae aut possimus ea similique facere!</p>
 </body>
 </html>
